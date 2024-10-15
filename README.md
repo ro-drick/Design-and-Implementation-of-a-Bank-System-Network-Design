@@ -132,4 +132,5 @@ With the configuration complete, the network should now be fully operational and
 ## Conclusion
 
 The successful design and implementation of the network for **Radeon Company Ltd.** provides a scalable, secure, and efficient communication infrastructure tailored to their needs. By utilizing VLAN segmentation, OSPF routing, and port security, we ensured both network performance and security. The incorporation of dynamic IP allocation via DHCP and secure remote access through SSH further enhances the usability and manageability of the network. Wireless access points across all floors allow for flexible connectivity, ensuring that both wired and wireless devices can seamlessly communicate. This project demonstrates the power of hierarchical network design in an enterprise setting, meeting the organization's current operational requirements while ensuring the network is capable of handling future growth. Testing and verification have confirmed that the network operates smoothly, with all departments and services functioning as expected. The project sets a solid foundation for the company's expansion and its move into the African market.
+
 ---
