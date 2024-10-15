@@ -6,6 +6,8 @@ This project involves designing and implementing a robust and scalable network f
 
 We were tasked with planning and setting up a network that would cater to both wired and wireless users in all departments, while ensuring secure, efficient, and reliable communication across the network.
 
+<img src= "https://github.com/ro-drick/Design-and-Implementation-of-a-Bank-System-Network-Design/blob/main/bank-network.png"/>
+
 ## Case Study Requirements
 
 Radeon Company Ltd. outlined the following key requirements for their network setup:
