@@ -100,6 +100,31 @@ To ensure the network is operating as expected, various testing methods were emp
 - **Testing and Troubleshooting** using Cisco tools.
 
 
+## How to Run
+
+1. **Open the Network Simulation File**: Launch the Cisco Packet Tracer or GNS3 software and open the project file.
+
+2. **Verify Device Configurations**:
+   - Confirm the VLANs, IP addressing scheme, and basic configurations on all network devices (switches, routers, access points).
+   - Ensure that SSH, DHCP, and OSPF configurations are active.
+
+3. **Access Network Devices**:
+   - To log into any router or switch, use the password `cisco` for console, VTY (SSH), and enable mode.
+
+4. **Test Network Connectivity**:
+   - Ping devices from different VLANs to ensure successful inter-VLAN routing.
+   - Check if all devices are obtaining their IP addresses dynamically via DHCP.
+   - Test remote access to routers via SSH using the password `cisco`.
+
+5. **Test Servers**:
+   - Open a browser on any end device and access the HTTP server using the appropriate IP address.
+   - Configure an email client on any device to connect to the Email server for testing.
+
+6. **Monitor Security**:
+   - Check the port-security settings by examining the active ports on the switches to ensure MAC address sticky configurations and security violations are in place. 
+
+With the configuration complete, the network should now be fully operational and secure, with seamless communication between all departments.
+
 ## Conclusion
 
 The successful design and implementation of the network for **Radeon Company Ltd.** provides a scalable, secure, and efficient communication infrastructure tailored to their needs. By utilizing VLAN segmentation, OSPF routing, and port security, we ensured both network performance and security. The incorporation of dynamic IP allocation via DHCP and secure remote access through SSH further enhances the usability and manageability of the network. Wireless access points across all floors allow for flexible connectivity, ensuring that both wired and wireless devices can seamlessly communicate. This project demonstrates the power of hierarchical network design in an enterprise setting, meeting the organization's current operational requirements while ensuring the network is capable of handling future growth. Testing and verification have confirmed that the network operates smoothly, with all departments and services functioning as expected. The project sets a solid foundation for the company's expansion and its move into the African market.
