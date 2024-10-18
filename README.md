@@ -4,7 +4,7 @@
 
 This project involves designing and implementing a robust and scalable network for **Radeon Company Ltd.**, a US-based organization that specializes in banking and insurance services. As the company seeks to expand into Africa, their first branch will be established in Nairobi, Kenya. The building assigned for their operations spans four stories, each floor housing multiple departments, as detailed below.
 
-We were tasked with planning and setting up a network that would cater to both wired and wireless users in all departments, while ensuring secure, efficient, and reliable communication across the network.
+I was tasked with planning and setting up a network that would cater to both wired and wireless users in all departments, while ensuring secure, efficient, and reliable communication across the network.
 
 <img src= "https://github.com/ro-drick/Design-and-Implementation-of-a-Bank-System-Network-Design/blob/main/bank-network.png"/>
 
@@ -131,6 +131,6 @@ With the configuration complete, the network should now be fully operational and
 
 ## Conclusion
 
-The successful design and implementation of the network for **Radeon Company Ltd.** provides a scalable, secure, and efficient communication infrastructure tailored to their needs. By utilizing VLAN segmentation, OSPF routing, and port security, we ensured both network performance and security. The incorporation of dynamic IP allocation via DHCP and secure remote access through SSH further enhances the usability and manageability of the network. Wireless access points across all floors allow for flexible connectivity, ensuring that both wired and wireless devices can seamlessly communicate. This project demonstrates the power of hierarchical network design in an enterprise setting, meeting the organization's current operational requirements while ensuring the network is capable of handling future growth. Testing and verification have confirmed that the network operates smoothly, with all departments and services functioning as expected. The project sets a solid foundation for the company's expansion and its move into the African market.
+The successful design and implementation of the network for **Radeon Company Ltd.** provides a scalable, secure, and efficient communication infrastructure tailored to their needs. By utilizing VLAN segmentation, OSPF routing, and port security, I ensured both network performance and security. The incorporation of dynamic IP allocation via DHCP and secure remote access through SSH further enhances the usability and manageability of the network. Wireless access points across all floors allow for flexible connectivity, ensuring that both wired and wireless devices can seamlessly communicate. This project demonstrates the power of hierarchical network design in an enterprise setting, meeting the organization's current operational requirements while ensuring the network is capable of handling future growth. Testing and verification have confirmed that the network operates smoothly, with all departments and services functioning as expected. The project sets a solid foundation for the company's expansion and its move into the African market.
 
 ---
